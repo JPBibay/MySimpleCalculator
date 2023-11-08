@@ -25,5 +25,5 @@ function calculate(operation) {
             result = 'Invalid operation';
     }
 
-    document.getElementById('answer').textContent = "Answer: " + result;
+    document.getElementById('answer').textContent = <br> result;
 }
